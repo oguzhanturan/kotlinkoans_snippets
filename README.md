@@ -1,1 +1,1 @@
-# kotlinkoans_snippets
+# Code Snippets for Kotlin Koans 
